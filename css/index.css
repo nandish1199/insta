@@ -97,11 +97,11 @@ nav .nav-links i#nav-cross{
     font-size: 4em;
     font-weight: 600;
     -webkit-box-reflect: below 4px linear-gradient(transparent,#0005);
-    text-shadow: 0 0 10px #fc0000,
-                0 0 40px #ff0202,
+    text-shadow: 0 0 10px #fc0000;
+/*                 0 0 40px #ff0202,
                 0 0 80px #ff0000,
                 0 0 160px #ff3c00,
-                0 0 240px #ff6600 
+                0 0 240px #ff6600  */
 }
 .section1 .right{
     display: flex;
